@@ -14,14 +14,7 @@ article {
     margin-right : 20px;
     margin-top : 10px;
 }
-#bg {
-    position : absolute;
-    bottom : 0px;
-    right : 0px;
-    margin-bottom = 0;
-    text-align : right;
-    display : block;
-}
+
 a {
     color : DarkSlateGray ;
     text-decoration: none;
